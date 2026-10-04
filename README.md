@@ -4,6 +4,17 @@ Computer Science · AI Research · Community Tech
 
 I build tools that make technology more useful and accessible, especially for neurodivergent people and their communities.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=michaelcraft17&show_icons=true&hide_border=true&count_private=true" alt="Michael's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcraft17&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=michaelcraft17&hide_border=true" alt="GitHub streak" />
+</p>
+
 ## 🚀 Projects
 
 | Project | What it is |
