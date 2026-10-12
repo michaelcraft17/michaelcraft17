@@ -25,7 +25,7 @@ A Chrome extension that shows a live translation next to any Google Doc. Click a
 `JavaScript` · `Chrome Extensions API`
 
 ### [Tennis Recovery Robot](https://github.com/michaelcraft17/tennis_recovery_robot)
-A Raspberry Pi robot on a mecanum-wheel chassis. It detects tennis balls with a trained computer-vision model and uses sonar to avoid obstacles (in progress, from my research at Cal Poly Pomona's SoftCom Lab).
+A Raspberry Pi robot on a mecanum-wheel chassis. It detects tennis balls with a trained computer-vision model and uses sonar to avoid obstacles (in progress, from my research at Cal Poly Pomona's SoftCom Lab, mentored by [@Sahagun](https://github.com/Sahagun)).
 `Python` · `OpenCV` · `Raspberry Pi` · `hardware`
 
 ## Collaborations
